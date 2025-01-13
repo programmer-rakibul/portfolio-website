@@ -7,6 +7,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 0px 200px 0px 200px;
 }
 
 nav > ul {
@@ -40,4 +41,8 @@ nav > ul > li > a {
   font-family: "Open Sans", serif;
   font-weight: bold;
   font-size: 45px;
+}
+
+.header {
+  background-color: #fff8f3;
 }
